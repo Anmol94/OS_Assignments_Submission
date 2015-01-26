@@ -1,5 +1,4 @@
-THIS IS THE OUTPUT WE GET WHEN THE SPECIFIC LIST OF COMMANDS WAS EXECUTED ON THE TERMINAL.
-NOTE: I HAVE USED MACHINE LEARNING FILES ON WHICH I HAVE RUN COMMANDS LIKE CONCATENATE AND SO ON. THUS THE OUTPUT HAS SOME PARTS OF THE ML CODE.
+
 
 %The output to least_squares(x, y, m) is the set of coefficients c0, c1,...,cm
 %for the least-square polynomial Pm(x) = c0 + c1*x + c2*x^2 + ...+ cm*x^m
@@ -396,35 +395,7 @@ anmol    :0           2015-01-24 20:56 (:0)
 anmol    pts/0        2015-01-24 22:10 (:0)
 fsck from util-linux 2.20.1
 /dev/sda7 is mounted.
-[?1049h[1;24r(B[m[4l[?7h[?1h=[?1h=[H[2Jfor i = 1:n[2;4Hfor j = 1:m+1[3;7H%right-hand side column vector consisting of sums of[4;7H%powers of x multiplied by (B[0;7my's[5;7H(B[mtheta(j) = theta(j) + y(i)*x(i)^(j-1);[6;4Hend
-[7dend
-[10dsp = zeros(2*m+1,1);
-[11dfor i = 1:n[12;4Hfor j = 1:2*m+1
-[13d(B[0;7m                                                                                [14;1H(B[m1) Y's[14;41H6) W's
-[15d2) T's[15;41H7) Dy's
-[16d3) U's[16;41H8) Ty's
-[17d4) Yb's[17;41H9) by's
-[18d5) S's[18;41H0) A's
-[19di) Ignore[19;41HI) Ignore all
-[20dr) Replace[20;41HR) Replace all
-[21da) Add[21;41Hl) Add Lower
-[22db) Abort[22;41Hx) Exit
-[23d(B[0;7m                                                                                [24;1H(B[m? 
-Sorry that is an invalid choice!
-[24;33H
-[24;33H
-[24;33H
-[24;33H
-[24;33H
-[24;33H^C
-Are you sure you want to abort (y/n)? ^C
-?[K 
-Sorry that is an invalid choice!
-[24;33H
-[24;33H
-[24;33H
-[24;33H^C
-Are you sure you want to abort (y/n)? code:
+[?1049h[1;24r(B[m[4l[?7h[?1h=[?1h=[H[2Jfor i = 1:n[2;4Hfor j = 1:m+1[3;7H%right-hand side column vector consisting of sums of[4;7H%powers of x multiplied by (B[0;7my's[5;7H(B[mtheta(j) = theta(j) + y(i)*x(i)^(j-1);[6;4Hend[7dend[10dsp = zeros(2*m+1,1);[11dfor i = 1:n[12;4Hfor j = 1:2*m+1[13d(B[0;7m                                                                                [14;1H(B[m1) Y's[14;41H6) W's[15d2) T's[15;41H7) Dy's[16d3) U's[16;41H8) Ty's[17d4) Yb's[17;41H9) by's[18d5) S's[18;41H0) A's[19di) Ignore[19;41HI) Ignore all[20dr) Replace[20;41HR) Replace all[21da) Add[21;41Hl) Add Lower[22db) Abort[22;41Hx) Exit[23d(B[0;7m                                                                                [24;1H(B[m? Sorry that is an invalid choice![24;33H[24;33H[24;33H[24;33H[24;33H[24;33H^CAre you sure you want to abort (y/n)? ^C?[K Sorry that is an invalid choice![24;33H[24;33H[24;33H[24;33H^CAre you sure you want to abort (y/n)? code:
 lsb/usr/cupsfilters/Fuji_Xerox-DocuPrint_CM305_df-PDF.ppd Fuji Xerox
 foomatic-db-compressed-ppds:0/ppd/foomatic-ppd/Alps-MD-1000-md2k.ppd Alps MD-1000 Foomatic/md2k
 foomatic-db-compressed-ppds:0/ppd/foomatic-ppd/Alps-MD-1300-md1xMono.ppd Alps MD-1300 Foomatic/md1xMono
